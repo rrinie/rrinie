@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rrinie
 - 👀 I’m interested in very much everything
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on everything
 - 📫 Can't reach me im too high
 - 😄 Pronouns: she her
