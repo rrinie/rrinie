@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rrinie
-- 👀 I’m interested in very much everything
+- 👀 I’m interested in quantum computing
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on everything
-- 📫 Can't reach me im too high
+- 💞️ I’m looking to collaborate on projects
 - 😄 Pronouns: she her
 - ⚡ Fun fact: I love chinese and indian folk music
 
