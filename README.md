@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rrinie
 - 👀 I’m interested in quantum computing
-- 🌱 I’m currently learning Java and Phyton
+- 🌱 I’m currently learning Java, SQL and Phyton
 - 🌐 I'm learning German and Chinese
 - 💞️ I’m looking to collaborate on projects
 - 😄 Pronouns: she her
