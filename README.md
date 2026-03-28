@@ -1,3 +1,15 @@
+- 👋 Hi, I’m @rrinie
+- 👀 I’m interested in quantum computing
+- 🌱 I’m currently learning Java, SQL and Phyton
+- 🌐 I'm learning German and Chinese
+- 💞️ I’m looking to collaborate on projects
+- 😄 Pronouns: she her
+- ⚡ Fun fact: I love chinese and indian folk music
+
+<!---
+rrinie/rrinie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-büyükkeklik-7b4807258) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/its_rinie) 
